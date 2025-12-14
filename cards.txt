@@ -1,0 +1,8 @@
+Apple
+Banana
+Cherry
+Dog
+Elephant
+Flower
+Guitar
+House
